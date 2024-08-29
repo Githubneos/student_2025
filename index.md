@@ -5,6 +5,6 @@ description: Home Page
 hide: true
 ---
 
-My journey starts here - Kickin' Projects
+My journey starts here - Keerthan Karumudi
 
 
